@@ -1,0 +1,17 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+p{
+    margin-left: 10px;
+}
+.lun{
+    position: relative;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    transform: translateY(500%);
+    gap: 45%;
+}
